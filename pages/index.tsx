@@ -7,9 +7,7 @@ import NavigationCard from '../src/components/NavigationCard';
 
 const Homepage = () => {
   return (
-    <Container 
-      maxWidth="100%"
-    >
+    <Container>
       <Hero
         title="Japanese Food"
         subtitle="F*ck Yeah"
